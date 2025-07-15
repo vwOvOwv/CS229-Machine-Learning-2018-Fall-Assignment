@@ -21,4 +21,4 @@ My own solutions to the CS229 Fall 2018 problem set.
   - Select `OK` then `Apply`
 
 ## Acknowledgements
-This repository is based on the CS229 Fall 2018 course materials from [@maxim5](https://github.com/maxim5/cs229-2018-autumn). Other course materials can be found at the original repository.
+All problem sets are from [@maxim5](https://github.com/maxim5/cs229-2018-autumn). Other course materials can be found at the repository.
