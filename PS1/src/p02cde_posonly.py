@@ -32,4 +32,4 @@ def main(train_path, valid_path, test_path, pred_path):
     # Make sure to save outputs to pred_path_d
     # Part (e): Apply correction factor using validation set and test on true labels
     # Plot and use np.savetxt to save outputs to pred_path_e
-    # *** END CODER HERE
+    # *** END CODE HERE
