@@ -20,5 +20,5 @@ My own solutions to the CS229 Fall 2018 problem set.
   - Select `/Users/YOUR_USERNAME/miniconda3/envs/cs229/bin/python`
   - Select `OK` then `Apply`
 
-## Acknowledgements
+## Acknowledgement
 All problem sets are from [@maxim5](https://github.com/maxim5/cs229-2018-autumn). Other course materials can be found at the repository.
